@@ -1,4 +1,4 @@
-# hi there, I'm **khgb**
+# hi there, I'm **Khang Bui**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)  
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
