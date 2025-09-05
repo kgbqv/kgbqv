@@ -11,3 +11,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kgbqv)
 
 happy coding
+
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/kgbqv"/>  
+    </div>
